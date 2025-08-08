@@ -48,7 +48,7 @@ int main(){
     cout << "Enter the number of balls: ";
     cin >> m;
 
-    cout << "Minimized maximum distance bw balls is: ";
+    cout << "Minimized maximum distance/force bw balls is: ";
     cout << maxDistance(arr, m);
     return 0;        
 }
