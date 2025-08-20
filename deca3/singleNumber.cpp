@@ -24,7 +24,7 @@ int main(){
         cin >> v[i];
     }
     int ans = singleNumber(v);
-    cout << "This number occured only once: "<< ans;
+    cout << "The number occurred only once is: "<< ans;
 
     return 0;
 }
